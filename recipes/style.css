@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(15, 6, 49);
+    color: white;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+ul,ol{
+    font-size: 30px;
+}
+.ingredients li{
+    color: rgb(255, 89, 0);
+}
+.steps li{
+    color: rgb(0, 191, 255);
+    background-color: rgba(108, 98, 12, 0.415);
+}
+h1,h2{
+    font-family: 'Courier New', Courier, monospace,serif;
+    font-size: 25px;
+    color: deepskyblue;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
